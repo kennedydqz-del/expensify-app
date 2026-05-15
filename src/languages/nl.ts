@@ -1957,6 +1957,7 @@ const translations: TranslationDeepObject<typeof en> = {
             subtitle: 'These details are displayed on your public profile. Anyone can see them.',
             prompt: 'Prompt',
             editPrompt: 'Edit prompt',
+            promptCannotBeEmpty: 'Prompt cannot be empty',
         },
     },
     securityPage: {
